@@ -1,0 +1,6 @@
+/server
+*.exe
+.env
+
+# Confidential source doc, not part of the project itself.
+Go Contract.pdf
